@@ -15,8 +15,8 @@ elif 4<=a<=8:
     st=3*13+(a-3)*12
     print("so tien", st)
 elif 8<a:
-    st=3*13+(a-3)*12+a*10
+    st=3*13+5*12+(a-8)*10
     print("so tien", st)
 if st > 100:
     stc=st*0.92
-    print("so tien cuoi", stc)
+    print("so tien cuoi", st)
